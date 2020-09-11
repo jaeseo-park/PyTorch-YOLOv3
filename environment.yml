@@ -1,0 +1,5 @@
+name: test
+channels:
+  - defaults
+prefix: /home/jspark/miniconda3/envs/test
+
